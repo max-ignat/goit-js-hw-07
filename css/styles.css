@@ -30,7 +30,17 @@
   height: 100%;
   width: 100%;
   object-fit: cover;
-  transition: transform var(--animation-duration) var(--timing-function);
+  transition: transform var(--animation-duration) var(--timing-function) 500ms;
+
+  transform: translateX(-100%);
+    opacity: 0;
+    visibility: hidden;
+}
+
+.gallery__image.appear {
+  transform: translateX(0);
+  opacity: 1;
+  visibility: visible;
 }
 
 .gallery__link {

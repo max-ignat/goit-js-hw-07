@@ -1,6 +1,48 @@
 export const galleryItems = [
   {
     preview:
+      'https://cdn.pixabay.com/photo/2022/11/05/22/00/the-path-7572857__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/05/22/00/the-path-7572857_960_720.jpg',
+    description: 'Autmn walk',
+  },
+
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/05/08/26/christmas-7571371__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/05/08/26/christmas-7571371_960_720.jpg',
+    description: 'Christmas deco',
+  },
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/05/01/49/house-7570958__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/05/01/49/house-7570958_960_720.jpg',
+    description: 'Abandoned house',
+  },
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/04/13/22/castle-7569846__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/04/13/22/castle-7569846_960_720.jpg',
+    description: 'Castle on the hill',
+  },
+
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/05/08/35/krampus-7571381__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/05/08/35/krampus-7571381_960_720.jpg',
+    description: 'Angry mask',
+  },
+
+
+
+
+
+  {
+    preview:
       'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825__340.jpg',
     original:
       'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825_1280.jpg',
@@ -62,4 +104,59 @@ export const galleryItems = [
       'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
     description: 'Lighthouse Coast Sea',
   },
+  
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/06/18/11/sea-7574667__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/06/18/11/sea-7574667_960_720.jpg',
+    description: 'Seagul',
+  },
+
+  
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/04/18/54/eggs-7570512__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/04/18/54/eggs-7570512_960_720.jpg',
+    description: 'Eggs ',
+  },
+
+  {
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/03/15/35/bridge-7567775__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/03/15/35/bridge-7567775_960_720.jpg',
+    description: 'Bridge across the river',
+  },
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/02/08/48/cat-7564358__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/02/08/48/cat-7564358_960_720.jpg',
+    description: 'Cat',
+  },
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/11/04/18/11/nuts-7570463__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/11/04/18/11/nuts-7570463_960_720.jpg',
+    description: 'Hazelnut',
+  },
+{
+    preview:
+      'https://cdn.pixabay.com/photo/2022/10/30/01/59/alpine-7556449__340.jpg',
+    original:
+      'https://cdn.pixabay.com/photo/2022/10/30/01/59/alpine-7556449_960_720.jpg',
+    description: 'Somewhere in the mountains',
+  },
 ];
+
+
+// {
+//     preview:
+//       '',
+//     original:
+//       '',
+//     description: ' ',
+//   },
